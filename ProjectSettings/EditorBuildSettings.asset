@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: a765422c13cd13c4d86398196842fca1
+  - enabled: 1
+    path: Assets/Scenes/TutorialFPP.unity
+    guid: 82147a24d0d4dc84481ff52694e319db
+  - enabled: 1
+    path: Assets/Scenes/TutorialTPP.unity
+    guid: f6e7ce7792650db4c8575396d76aa82d
+  - enabled: 1
+    path: Assets/Scenes/EasyFPP.unity
+    guid: 0ece5f141f1e5e141b3769f88a35efe1
+  - enabled: 1
+    path: Assets/Scenes/EasyTPP.unity
+    guid: aa3a13fe42a3b944687fdbd8385e6035
+  - enabled: 1
+    path: Assets/Scenes/NormalFPP.unity
+    guid: f0a0f4583c8ee5d44bba97158fb41768
+  - enabled: 1
+    path: Assets/Scenes/NormalTPP.unity
+    guid: b5e788d32e4ec694e8334d73fb404074
+  - enabled: 1
+    path: Assets/Scenes/HardFPP.unity
+    guid: 8444135d0527b45438eff4c1ba2d153f
+  - enabled: 1
+    path: Assets/Scenes/HardTPP.unity
+    guid: c81f02e08e053d549b8e3f61b61ae7ca
+  - enabled: 1
+    path: Assets/Scenes/Yeesteregg.unity
+    guid: e108445f6d412394cafc2720d3e6293f
+  m_configObjects: {}
